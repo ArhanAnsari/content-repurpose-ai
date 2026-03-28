@@ -119,7 +119,7 @@ export default function Home() {
           </motion.div>
 
           <motion.a
-            href="https://github.com/ArhanAnsari/repurposer-ai"
+            href="https://github.com/ArhanAnsari/content-repurpose-ai"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.1 }}
